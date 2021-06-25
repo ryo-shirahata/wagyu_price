@@ -57,3 +57,9 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+
+/* 追加記述（branch lesson） */
+.card {
+  border-radius: 0;
+}
